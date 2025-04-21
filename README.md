@@ -1,11 +1,28 @@
 Project title: # web-development-project
 
-Description: a three-page "portfolio" project - a website that shows all of my skills and accomplishments here at Kennesaw State University
+Description: A three-page "portfolio" project - a website that shows all of my skills and accomplishments here at Kennesaw State University
 
-Installation Instructions: If applicable, explain how to set up and run your project
+Installation Instructions:
 
-Usage: Describe how to use the application or website
+- Go to the GitHub Repository
+- Visit the GitHub repository page containing the files you want to download.
+- Download Files
+- Option 1: Download ZIP
+  - Click the "Code" button (green button).
+  - Select "Download ZIP".
+  - Extract the ZIP file to a folder on your computer.
+Option 2: Clone Repository (via Git)
+  - Copy the repository URL (HTTPS or SSH).
+  - Open a terminal and run:
+  - bash, copy, edit
+  - git clone https://github.com/ale59vf/web-development-project.git (This will create a local copy of the repository).
+  - pen the Files Locally
+  - Go to the folder where the files are downloaded.
+  - Locate the HTML file (e.g., index.html).
+  - Open the HTML file in a browser.
 
-Contributing: None
-
-License: Mention the license under which your project is released, if applicable
+Usage:
+- Navigate through the website by:
+- Clicking through each section in the header
+- Scrolling throught the website
+- Each section has different material located within it
